@@ -9,12 +9,13 @@ at the field. Get the app on [Google Play](https://play.google.com/store/apps/de
 
 | Part | What it is | Size (mm) |
 |---|---|---|
-| Unimount A | One half of the universal phone clamp. | 35 × 57 × 21 |
-| Unimount B | The other half of the clamp. A and B together hold the phone. | 35 × 65 × 21 |
-| Pocket Bracket USB | Attaches the clamp to a RadioMaster Pocket, with a gap for the USB-C cable. | 49 × 69 × 30 |
-| QX7 Bracket | Attaches the same clamp to a FrSky Taranis QX7. | 16 × 49 × 14 |
+| Unimount AB Unified | The phone clamp: both halves in one file, printed in place. Stronger rubber-band hooks. **Start here.** | 35 × 73 × 24 |
+| Pocket Bracket USB | Holds the clamp on a RadioMaster Pocket, with a gap for the USB-C cable. | 49 × 69 × 30 |
+| QX7 Bracket | Holds the clamp on a FrSky Taranis QX7. | 16 × 49 × 14 |
+| TX16S Bracket | Holds the clamp on a RadioMaster TX16S MKII. | 16 × 22 × 14 |
+| Unimount A, Unimount B | The earlier clamp as two separate files, with the original hooks. Use the unified file instead. | 35 × 57 × 21, 35 × 65 × 21 |
 
-Print Unimount A and B, plus the bracket for your radio.
+Print the unified Unimount, plus the bracket for your radio.
 
 ## Printing
 
@@ -26,10 +27,19 @@ Print Unimount A and B, plus the bracket for your radio.
 | Infill | 40 %, cubic |
 | Supports | Only where your slicer flags overhangs |
 
+The Unimount prints in place as two parts. After printing, check that the two parts slide freely.
+
+## Assembly
+
+1. Fit rubber bands over the hooks of the Unimount. They are the springs that close the clamp on the phone.
+2. Glue the Unimount to the bracket for your radio.
+3. TX16S and QX7: fix the bracket to the radio's lanyard hole with an M3 screw (about 15 mm) and an M3 nut.
+
 ## Hardware
 
-The parts are held together with **M3 screws and M3 nuts**. Screw lengths aren't listed yet: check the length against
-your printed parts before you buy.
+- Rubber bands
+- Glue
+- TX16S and QX7: one M3 × 15 mm screw (approximately) and one M3 nut
 
 ## Files
 
