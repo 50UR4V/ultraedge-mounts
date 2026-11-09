@@ -16,6 +16,21 @@ at the field. Get the app on [Google Play](https://play.google.com/store/apps/de
 
 Print Unimount A and B, plus the bracket for your radio.
 
+## Printing
+
+| Setting | Value |
+|---|---|
+| Material | PLA+ |
+| Layer height | 0.2 mm |
+| Walls | 4 |
+| Infill | 40 %, cubic |
+| Supports | Only where your slicer flags overhangs |
+
+## Hardware
+
+The parts are held together with **M3 screws and M3 nuts**. Screw lengths aren't listed yet: check the length against
+your printed parts before you buy.
+
 ## Files
 
 - `3mf/` — the designs as exported from Onshape. Use these if your slicer reads 3MF.
