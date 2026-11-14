@@ -49,9 +49,15 @@ The Unimount prints in place as two parts. After printing, check that the two pa
 
 Found a fit problem or made a bracket for another radio? Open an issue or a pull request.
 
+## UltraEdge Wireless module shells
+
+[`wireless-module/`](wireless-module/) holds the printable shells for the UltraEdge Wireless bay module (prototype): a 2-in-1 for JR and nano bays, and one for the Pocket.
+
 ## Licence
 
-[CC BY-NC-SA 4.0](LICENSE): you may print, change and share these parts with credit, but not sell them or prints of them,
-and changed versions must use the same licence.
+- The phone mounts (`3mf/`, `stl/`): [CC BY-NC-SA 4.0](LICENSE). You may print, change and share these parts with
+  credit, but not sell them or prints of them, and changed versions must use the same licence.
+- The wireless module shells (`wireless-module/`): [CC BY-SA 4.0](wireless-module/LICENSE). You may also sell them or
+  prints of them, with credit; changed versions must use the same licence.
 
 UltraEdge is not affiliated with or endorsed by EdgeTX, FrSky or RadioMaster.
