@@ -59,5 +59,3 @@ Found a fit problem or made a bracket for another radio? Open an issue or a pull
   credit, but not sell them or prints of them, and changed versions must use the same licence.
 - The wireless module shells (`wireless-module/`): [CC BY-SA 4.0](wireless-module/LICENSE). You may also sell them or
   prints of them, with credit; changed versions must use the same licence.
-
-UltraEdge is not affiliated with or endorsed by EdgeTX, FrSky or RadioMaster.

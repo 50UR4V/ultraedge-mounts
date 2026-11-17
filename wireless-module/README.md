@@ -34,5 +34,3 @@ Don't plug the C3's USB into a computer while the module is in a powered bay.
 This folder (the shells' design files) is under [CC BY-SA 4.0](LICENSE): you may print, change, share and sell the
 shells or prints of them, with credit to UltraEdge, and changed versions must use the same licence. The module's
 firmware is not part of this repository and is not covered by this licence.
-
-UltraEdge is not affiliated with or endorsed by EdgeTX, FrSky or RadioMaster.
