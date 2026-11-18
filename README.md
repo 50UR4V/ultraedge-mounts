@@ -51,7 +51,7 @@ Found a fit problem or made a bracket for another radio? Open an issue or a pull
 
 ## UltraEdge Wireless module shells
 
-[`wireless-module/`](wireless-module/) holds the printable shells for the UltraEdge Wireless bay module (prototype): a 2-in-1 for JR and nano bays, and one for the Pocket.
+[`wireless-module/`](wireless-module/) holds the printable shells for the UltraEdge Wireless bay module (Baylink): a 2-in-1 for JR and nano bays, and one for the Pocket.
 
 ## Licence
 

@@ -6,8 +6,9 @@ and links the [UltraEdge app](https://github.com/50UR4V/UltraEdge-app) to the ra
 - **2-in-1:** one shell for both a standard JR bay (TX16S, QX7 and similar) and a nano bay (Pocket and similar).
 - **Pocket:** a smaller shell made for the RadioMaster Pocket.
 
-**Status:** prototype. UltraEdge Wireless isn't released yet; the module's firmware and how to get it will be
-announced on [ultraedge.app](https://ultraedge.app).
+**Status:** released with app 1.7.1 and firmware v1.2.2. Flash the module at
+[ultraedge.app/flash](https://ultraedge.app/flash), then activate it in the app. Setup: the
+[manual's wireless chapter](https://github.com/50UR4V/UltraEdge-app/blob/main/UserManual/16-wireless.md).
 
 ## Files
 
@@ -21,7 +22,7 @@ announced on [ultraedge.app](https://ultraedge.app).
 STL files are made from the 3MF files with `../tools/3mf2stl.py`. Print settings as for the mounts (PLA+, 0.2 mm
 layers, 4 walls).
 
-## What goes inside (prototype)
+## What goes inside
 
 - An ESP32-C3 board
 - A 5 V regulator (7805, TO-220) on a small piece of perfboard, fed from the bay
